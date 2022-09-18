@@ -73,3 +73,11 @@ body {
 label {
 	color: white;
 }
+.creditos {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+.creditos p {
+	color: white;
+}

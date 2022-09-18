@@ -7,3 +7,13 @@
         </div>
     </div>
 </section>
+
+<section class="creditos">
+    <div class="container-fluid">
+        <div class="row">
+            <p>
+                Desenvolvido por: Cássio V T Bomfim
+            </p>
+        </div>
+    </div>
+</section>
